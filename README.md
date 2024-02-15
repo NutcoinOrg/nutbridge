@@ -1,4 +1,4 @@
 # nutbridge
-Decentralized ZK Bridge ETH &lt;> WEN
+Decentralized ZK Bridge: Ethereum <> Wencash
 
 **UNDER CONSTRUCTION**
